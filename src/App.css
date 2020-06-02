@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  padding-left: 50px;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 .App-logo {
@@ -35,4 +38,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.ContactCard {
+  border: 1px solid tomato;
+  padding: 10px;
 }
